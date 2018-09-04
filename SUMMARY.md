@@ -9,4 +9,6 @@
   * [Kahn's algorithms for Topological Sorting](bfs/kahns-algorithms-for-topological-sorting.md)
   * [CourseScheduleII](bfs/coursescheduleii.md)
   * [Graph Valid Tree](bfs/graph-valid-tree.md)
+* [Flatten Binary Tree to Linked List](flatten-binary-tree-to-linked-list.md)
+* [Minimum Depth of Binary Tree](minimum-depth-of-binary-tree.md)
 
