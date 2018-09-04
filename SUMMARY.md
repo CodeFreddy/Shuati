@@ -11,4 +11,5 @@
   * [Graph Valid Tree](bfs/graph-valid-tree.md)
   * [Flatten Binary Tree to Linked List](bfs/flatten-binary-tree-to-linked-list.md)
   * [Minimum Depth of Binary Tree](bfs/minimum-depth-of-binary-tree.md)
+* [Nested List Weight Sum](nested-list-weight-sum.md)
 
