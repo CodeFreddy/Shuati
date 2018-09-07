@@ -14,4 +14,7 @@
   * [Minimum Depth of Binary Tree](dfs/minimum-depth-of-binary-tree.md)
   * [Nested List Weight Sum](dfs/nested-list-weight-sum.md)
   * [N Queens](dfs/n-queens.md)
+  * [Permutations](dfs/permutations.md)
+  * [Permutations II](dfs/permutations-ii.md)
+  * [Palindrome Partitioning](dfs/palindrome-partitioning.md)
 
