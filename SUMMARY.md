@@ -17,4 +17,8 @@
   * [Permutations](dfs/permutations.md)
   * [Permutations II](dfs/permutations-ii.md)
   * [Palindrome Partitioning](dfs/palindrome-partitioning.md)
+* [Array](array/README.md)
+  * [Remove Element](array/remove-element.md)
+* [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array.md)
+* [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii.md)
 
