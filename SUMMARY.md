@@ -23,4 +23,5 @@
 * [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii.md)
 * [Find the Celebrity](find-the-celebrity.md)
 * [Rotate Array](rotate-array.md)
+* [First Missing Positive](first-missing-positive.md)
 
