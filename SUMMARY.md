@@ -20,5 +20,6 @@
 * [Array](array/README.md)
   * [Remove Element](array/remove-element.md)
 * [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array.md)
-* [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii.md)
+* [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/README.md)
+  * [Find the Celebrity](remove-duplicates-from-sorted-array-ii/find-the-celebrity.md)
 
