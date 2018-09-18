@@ -38,8 +38,9 @@
   * [Binary Tree Inorder Traversal](binary-tree/binary-tree-inorder-traversal.md)
   * [Binary Tree Preorder Traversal](binary-tree/binary-tree-preorder-traversal.md)
   * [Binary Tree Postorder Traversal](binary-tree/binary-tree-postorder-traversal.md)
-* [Binary Tree](binary-tree/README.md)
   * [Same Tree](binary-tree/same-tree.md)
   * [Symmetric Tree](binary-tree/symmetric-tree.md)
-* [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.md)
+  * [Binary Tree Level Order Traversal](binary-tree/binary-tree-level-order-traversal.md)
+  * [Binary Tree](binary-tree/binary-tree.md)
+* [Invert Binary Tree](invert-binary-tree.md)
 
