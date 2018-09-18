@@ -42,5 +42,7 @@
   * [Symmetric Tree](binary-tree/symmetric-tree.md)
   * [Binary Tree Level Order Traversal](binary-tree/binary-tree-level-order-traversal.md)
   * [Binary Tree](binary-tree/binary-tree.md)
-* [Invert Binary Tree](invert-binary-tree.md)
+  * [Invert Binary Tree](binary-tree/invert-binary-tree.md)
+  * [Binary Tree Paths](binary-tree/binary-tree-paths.md)
+* [Path Sum](path-sum.md)
 
