@@ -27,6 +27,8 @@
   * [Bulls and Cows](array/bulls-and-cows.md)
   * [Gas Station](array/gas-station.md)
   * [H Index](array/h-index.md)
+  * [First Bad Version](array/first-bad-version.md)
+* [Search Insert Position](search-insert-position.md)
 * [Binary Search](binary-search/README.md)
   * [Intersection of Two Arrays](binary-search/intersection-of-two-arrays.md)
   * [ind First and Last Position of Element in Sorted Array](binary-search/ind-first-and-last-position-of-element-in-sorted-array.md)
