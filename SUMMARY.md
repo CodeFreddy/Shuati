@@ -30,6 +30,9 @@
 * [Binary Search](binary-search/README.md)
   * [Intersection of Two Arrays](binary-search/intersection-of-two-arrays.md)
   * [ind First and Last Position of Element in Sorted Array](binary-search/ind-first-and-last-position-of-element-in-sorted-array.md)
+  * [Count of Smaller Numbers After Self](binary-search/count-of-smaller-numbers-after-self.md)
   * [Intersection of Two Arrays II](binary-search/intersection-of-two-arrays-ii.md)
-* [Count of Smaller Numbers After Self](count-of-smaller-numbers-after-self.md)
+* [Binary Tree](binary-tree/README.md)
+  * [Same Tree](binary-tree/same-tree.md)
+  * [Symmetric Tree](binary-tree/symmetric-tree.md)
 
