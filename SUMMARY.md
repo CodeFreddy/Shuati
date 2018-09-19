@@ -50,4 +50,6 @@
   * [Binary Tree Longest Consecutive Sequence](binary-tree/binary-tree-longest-consecutive-sequence.md)
   * [Minimum Depth of Binary Tree](binary-tree/minimum-depth-of-binary-tree.md)
   * [Maximum Depth of Binary Tree](binary-tree/maximum-depth-of-binary-tree.md)
+  * [Balanced Binary Tree](binary-tree/balanced-binary-tree.md)
+* [Count Univalue Subtrees](count-univalue-subtrees.md)
 
