@@ -48,5 +48,6 @@
   * [Path Sum II](binary-tree/path-sum-ii.md)
   * [Sum Root to Leaf Numbers](binary-tree/sum-root-to-leaf-numbers.md)
   * [Binary Tree Longest Consecutive Sequence](binary-tree/binary-tree-longest-consecutive-sequence.md)
-* [Minimum Depth of Binary Tree](minimum-depth-of-binary-tree.md)
+  * [Minimum Depth of Binary Tree](binary-tree/minimum-depth-of-binary-tree.md)
+  * [Maximum Depth of Binary Tree](binary-tree/maximum-depth-of-binary-tree.md)
 
