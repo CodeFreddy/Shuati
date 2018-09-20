@@ -51,8 +51,9 @@
   * [Minimum Depth of Binary Tree](binary-tree/minimum-depth-of-binary-tree.md)
   * [Maximum Depth of Binary Tree](binary-tree/maximum-depth-of-binary-tree.md)
   * [Balanced Binary Tree](binary-tree/balanced-binary-tree.md)
-* [Count Univalue Subtrees](count-univalue-subtrees.md)
-* [Find Leaves of Binary Tree](find-leaves-of-binary-tree.md)
-* [House Robber III](house-robber-iii.md)
-* [Populating Next Right Pointers in Each Node](populating-next-right-pointers-in-each-node.md)
+  * [Count Univalue Subtrees](binary-tree/count-univalue-subtrees.md)
+  * [Find Leaves of Binary Tree](binary-tree/find-leaves-of-binary-tree.md)
+  * [House Robber III](binary-tree/house-robber-iii.md)
+  * [Populating Next Right Pointers in Each Node](binary-tree/populating-next-right-pointers-in-each-node.md)
+* [Unique Binary Search Trees](unique-binary-search-trees.md)
 
