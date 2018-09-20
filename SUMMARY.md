@@ -53,4 +53,6 @@
   * [Balanced Binary Tree](binary-tree/balanced-binary-tree.md)
 * [Count Univalue Subtrees](count-univalue-subtrees.md)
 * [Find Leaves of Binary Tree](find-leaves-of-binary-tree.md)
+* [House Robber III](house-robber-iii.md)
+* [Populating Next Right Pointers in Each Node](populating-next-right-pointers-in-each-node.md)
 
