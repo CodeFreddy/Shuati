@@ -57,4 +57,5 @@
   * [Populating Next Right Pointers in Each Node](binary-tree/populating-next-right-pointers-in-each-node.md)
   * [Unique Binary Search Trees](binary-tree/unique-binary-search-trees.md)
   * [Binary Tree Level Order Traversal II](binary-tree/binary-tree-level-order-traversal-ii.md)
+  * [Binary Tree Zigzag Level Order Traversal](binary-tree/binary-tree-zigzag-level-order-traversal.md)
 
