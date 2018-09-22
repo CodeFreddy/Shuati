@@ -61,4 +61,5 @@
   * [Binary Tree Right Side View](binary-tree/binary-tree-right-side-view.md)
   * [Validate Binary Search Tree](binary-tree/validate-binary-search-tree.md)
   * [Kth Smallest Element in a BST](binary-tree/kth-smallest-element-in-a-bst.md)
+* [Lowest Common Ancestor of a Binary Search Tree](lowest-common-ancestor-of-a-binary-search-tree.md)
 
