@@ -69,3 +69,43 @@ class Solution {
 }
 ```
 
+递归:
+
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    private int number = 0;
+    private int count = 0;
+    
+    public int kthSmallest(TreeNode root, int k) {
+        if(root == null) return number;
+        count = k;
+        helper(root);
+        return number;
+    }
+    
+    public void helper(TreeNode root)
+    {
+        if(root == null) return;
+        helper(root.left);
+        count--;
+        
+        if(count == 0)
+        {
+            number = root.val;
+            return;
+        }
+        
+        helper(root.right);
+    }
+}
+```
+
