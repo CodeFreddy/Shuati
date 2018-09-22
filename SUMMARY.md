@@ -59,5 +59,6 @@
   * [Binary Tree Level Order Traversal II](binary-tree/binary-tree-level-order-traversal-ii.md)
   * [Binary Tree Zigzag Level Order Traversal](binary-tree/binary-tree-zigzag-level-order-traversal.md)
   * [Binary Tree Right Side View](binary-tree/binary-tree-right-side-view.md)
-* [Validate Binary Search Tree](validate-binary-search-tree.md)
+  * [Validate Binary Search Tree](binary-tree/validate-binary-search-tree.md)
+  * [Kth Smallest Element in a BST](binary-tree/kth-smallest-element-in-a-bst.md)
 
