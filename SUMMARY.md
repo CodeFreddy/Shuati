@@ -58,4 +58,6 @@
   * [Unique Binary Search Trees](binary-tree/unique-binary-search-trees.md)
   * [Binary Tree Level Order Traversal II](binary-tree/binary-tree-level-order-traversal-ii.md)
   * [Binary Tree Zigzag Level Order Traversal](binary-tree/binary-tree-zigzag-level-order-traversal.md)
+  * [Binary Tree Right Side View](binary-tree/binary-tree-right-side-view.md)
+* [Validate Binary Search Tree](validate-binary-search-tree.md)
 
