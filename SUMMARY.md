@@ -67,4 +67,6 @@
   * [109. Convert Sorted List to Binary Search Tree](binary-tree/109.-convert-sorted-list-to-binary-search-tree.md)
   * [173. Binary Search Tree Iterator](binary-tree/173.-binary-search-tree-iterator.md)
   * [Inorder Successor in BST](binary-tree/inorder-successor-in-bst.md)
+  * [Closest Binary Search Tree Value](binary-tree/closest-binary-search-tree-value.md)
+  * [Binary Tree Vertical Order Traversal](binary-tree/binary-tree-vertical-order-traversal.md)
 
