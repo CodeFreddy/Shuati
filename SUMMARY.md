@@ -63,4 +63,5 @@
   * [Kth Smallest Element in a BST](binary-tree/kth-smallest-element-in-a-bst.md)
   * [Lowest Common Ancestor of a Binary Search Tree](binary-tree/lowest-common-ancestor-of-a-binary-search-tree.md)
   * [Lowest Common Ancestor of a Binary Tree](binary-tree/lowest-common-ancestor-of-a-binary-tree.md)
+  * [108. Convert Sorted Array to Binary Search Tree](binary-tree/108.-convert-sorted-array-to-binary-search-tree.md)
 
