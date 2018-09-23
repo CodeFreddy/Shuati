@@ -69,4 +69,5 @@
   * [Inorder Successor in BST](binary-tree/inorder-successor-in-bst.md)
   * [Closest Binary Search Tree Value](binary-tree/closest-binary-search-tree-value.md)
   * [Binary Tree Vertical Order Traversal](binary-tree/binary-tree-vertical-order-traversal.md)
+  * [124. Binary Tree Maximum Path Sum](binary-tree/124.-binary-tree-maximum-path-sum.md)
 
