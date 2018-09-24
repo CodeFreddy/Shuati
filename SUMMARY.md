@@ -73,4 +73,5 @@
 * [LinkedIn OA](linkedin-oa/README.md)
   * [Sum of all Subarrays](linkedin-oa/sum-of-all-subarrays.md)
   * [Alternating parity permutation](linkedin-oa/alternating-parity-permutation.md)
+  * [322. Coin Change](linkedin-oa/322.-coin-change.md)
 
