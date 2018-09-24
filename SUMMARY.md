@@ -70,4 +70,7 @@
   * [Closest Binary Search Tree Value](binary-tree/closest-binary-search-tree-value.md)
   * [Binary Tree Vertical Order Traversal](binary-tree/binary-tree-vertical-order-traversal.md)
   * [124. Binary Tree Maximum Path Sum](binary-tree/124.-binary-tree-maximum-path-sum.md)
+* [LinkedIn OA](linkedin-oa/README.md)
+  * [Sum of all Subarrays](linkedin-oa/sum-of-all-subarrays.md)
+  * [Alternating parity permutation](linkedin-oa/alternating-parity-permutation.md)
 
