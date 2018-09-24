@@ -39,10 +39,12 @@ public class Main{
 			System.out.println("null");
 		}
 		dfs(n, res, new ArrayList<Integer>());
+		Collections.sort(res);
 		for(List<Integer> innerList: res)
 		{
 			System.out.println(innerList);
 		}
+		
 			
 	}
 }
