@@ -83,4 +83,8 @@
   * [Shift String](linkedin-oa/shift-string.md)
   * [1. Two Sum](linkedin-oa/1.-two-sum.md)
   * [Sort by bitCount](linkedin-oa/sort-by-bitcount.md)
+  * [Last Substring](linkedin-oa/last-substring.md)
+  * [Untitled](linkedin-oa/untitled.md)
+  * [Minimum Unique array sum](linkedin-oa/minimum-unique-array-sum.md)
+  * [Distinct Pairs, two sum](linkedin-oa/distinct-pairs-two-sum.md)
 
