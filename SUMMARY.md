@@ -87,4 +87,6 @@
   * [Untitled](linkedin-oa/untitled.md)
   * [Minimum Unique array sum](linkedin-oa/minimum-unique-array-sum.md)
   * [Distinct Pairs, two sum](linkedin-oa/distinct-pairs-two-sum.md)
+  * [Movies Ratings](linkedin-oa/movies-ratings.md)
+  * [Usernames System](linkedin-oa/usernames-system.md)
 
