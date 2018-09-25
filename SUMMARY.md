@@ -74,4 +74,9 @@
   * [Sum of all Subarrays](linkedin-oa/sum-of-all-subarrays.md)
   * [Alternating parity permutation](linkedin-oa/alternating-parity-permutation.md)
   * [322. Coin Change](linkedin-oa/322.-coin-change.md)
+  * [20. Valid Parentheses](linkedin-oa/20.-valid-parentheses.md)
+  * [Maximum difference in an array](linkedin-oa/maximum-difference-in-an-array.md)
+  * [Can you sort?](linkedin-oa/can-you-sort.md)
+  * [198. House Robber](linkedin-oa/198.-house-robber.md)
+  * [Cut the sticks](linkedin-oa/cut-the-sticks.md)
 
