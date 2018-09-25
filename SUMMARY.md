@@ -80,4 +80,7 @@
   * [198. House Robber](linkedin-oa/198.-house-robber.md)
   * [Cut the sticks](linkedin-oa/cut-the-sticks.md)
   * [547. Friend Circles](linkedin-oa/547.-friend-circles.md)
+  * [Shift String](linkedin-oa/shift-string.md)
+  * [1. Two Sum](linkedin-oa/1.-two-sum.md)
+  * [Sort by bitCount](linkedin-oa/sort-by-bitcount.md)
 
