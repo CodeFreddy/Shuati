@@ -89,4 +89,5 @@
   * [Distinct Pairs, two sum](linkedin-oa/distinct-pairs-two-sum.md)
   * [Movies Ratings](linkedin-oa/movies-ratings.md)
   * [Usernames System](linkedin-oa/usernames-system.md)
+  * [simple quries](linkedin-oa/simple-quries.md)
 

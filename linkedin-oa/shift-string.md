@@ -6,21 +6,29 @@
 
 Complete the function getShiftedString. The function must return the string s after performing several left shifts and right shifts.
 
-left shift:
-
 ```java
-public static String cyclicLeftShift(String s, int k){
-    k = k%s.length();
-    return s.substring(k) + s.substring(0, k);
-}
+// shift string
+    public static String shiftString(String s, int leftShifts, int rightShifts)
+    {
+        int num = leftShifts - rightShifts;
+        if(num == 0) return s;
+        // left shift
+        if(num > 0)
+        {
+            int k = num % s.length();
+            return s.substring(k) + s.substring(0, k);
+        }else
+        {
+            int k = Math.abs(num) % s.length();
+            return s.substring(s.length() - k) + s.substring(0, s.length() - k);
+        }
+    }
 
-public static void main(String[] args)
-{
-    String test = "Hello World";
-    for(int i = 0; i < test.length()*3; i++)
-        System.out.println(cyclicLeftShift(test, i));
-}
-
+    public static void main(String[] args)
+    {
+        String str = "abcde";
+        System.out.println(shiftString(str, 2, 2));
+    }
 
 ```
 
