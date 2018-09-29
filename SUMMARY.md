@@ -94,4 +94,5 @@
 ## Dynamic Programming
 
 * [Triangle](dynamic-programming/triangle.md)
+* [Minimum Path Sum](dynamic-programming/minimum-path-sum.md)
 
