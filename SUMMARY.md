@@ -95,4 +95,7 @@
 
 * [Triangle](dynamic-programming/triangle.md)
 * [Minimum Path Sum](dynamic-programming/minimum-path-sum.md)
+* [Climbing Stairs](dynamic-programming/climbing-stairs.md)
+* [Unique Paths](dynamic-programming/unique-paths.md)
+* [Unique Paths II](dynamic-programming/unique-paths-ii.md)
 
