@@ -91,3 +91,7 @@
   * [Usernames System](linkedin-oa/usernames-system.md)
   * [simple quries](linkedin-oa/simple-quries.md)
 
+## Dynamic Programming
+
+* [Triangle](dynamic-programming/triangle.md)
+
