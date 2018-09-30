@@ -99,4 +99,5 @@
 * [Unique Paths](dynamic-programming/unique-paths.md)
 * [Unique Paths II](dynamic-programming/unique-paths-ii.md)
 * [Perfect Squares](dynamic-programming/perfect-squares.md)
+* [Paint House](dynamic-programming/paint-house.md)
 
