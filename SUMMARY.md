@@ -101,4 +101,5 @@
 * [Perfect Squares](dynamic-programming/perfect-squares.md)
 * [Paint House](dynamic-programming/paint-house.md)
 * [Paint House II](dynamic-programming/paint-house-ii.md)
+* [Word Break](dynamic-programming/word-break.md)
 
