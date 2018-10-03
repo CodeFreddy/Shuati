@@ -102,4 +102,14 @@
 * [Paint House](dynamic-programming/paint-house.md)
 * [Paint House II](dynamic-programming/paint-house-ii.md)
 * [Word Break](dynamic-programming/word-break.md)
+* [375. Guess Number Higher or Lower II](dynamic-programming/375.-guess-number-higher-or-lower-ii.md)
+
+## DFS
+
+* [17. Letter Combinations of a Phone Number](dfs-1/17.-letter-combinations-of-a-phone-number.md)
+
+## Top 100 like questions
+
+* [2. Add Two Numbers](top-100-like-questions/2.-add-two-numbers.md)
+* [200. Number of Islands](top-100-like-questions/200.-number-of-islands.md)
 
