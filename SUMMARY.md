@@ -112,4 +112,6 @@
 
 * [2. Add Two Numbers](top-100-like-questions/2.-add-two-numbers.md)
 * [200. Number of Islands](top-100-like-questions/200.-number-of-islands.md)
+* [312. Burst Balloons](top-100-like-questions/312.-burst-balloons.md)
+* [72. Edit Distance](top-100-like-questions/72.-edit-distance.md)
 
