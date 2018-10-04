@@ -122,4 +122,6 @@
 ## Stack && Queue
 
 * [232. Implement Queue using Stacks](stack-and-and-queue/232.-implement-queue-using-stacks.md)
+* [208. Implement Trie \(Prefix Tree\)](stack-and-and-queue/208.-implement-trie-prefix-tree.md)
+* [225. Implement Stack using Queues](stack-and-and-queue/225.-implement-stack-using-queues.md)
 
