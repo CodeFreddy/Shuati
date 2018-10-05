@@ -103,6 +103,8 @@
 * [Paint House II](dynamic-programming/paint-house-ii.md)
 * [Word Break](dynamic-programming/word-break.md)
 * [375. Guess Number Higher or Lower II](dynamic-programming/375.-guess-number-higher-or-lower-ii.md)
+* [97. Interleaving String](dynamic-programming/97.-interleaving-string.md)
+* [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
 
 ## DFS
 
@@ -124,4 +126,12 @@
 * [232. Implement Queue using Stacks](stack-and-and-queue/232.-implement-queue-using-stacks.md)
 * [208. Implement Trie \(Prefix Tree\)](stack-and-and-queue/208.-implement-trie-prefix-tree.md)
 * [225. Implement Stack using Queues](stack-and-and-queue/225.-implement-stack-using-queues.md)
+* [716. Max Stack](stack-and-and-queue/716.-max-stack.md)
+* [84. Largest Rectangle in Histogram](stack-and-and-queue/84.-largest-rectangle-in-histogram.md)
+* [85. Maximal Rectangle](stack-and-and-queue/85.-maximal-rectangle.md)
+
+## Google
+
+* [681. Next Closest Time](google/681.-next-closest-time.md)
+* [683. K Empty Slots](google/683.-k-empty-slots.md)
 
