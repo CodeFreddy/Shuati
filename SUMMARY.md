@@ -134,4 +134,6 @@
 
 * [681. Next Closest Time](google/681.-next-closest-time.md)
 * [683. K Empty Slots](google/683.-k-empty-slots.md)
+* [482. License Key Formatting](google/482.-license-key-formatting.md)
+* [399. Evaluate Division](google/399.-evaluate-division.md)
 
