@@ -142,4 +142,5 @@
 * [857. Minimum Cost to Hire K Workers](google/857.-minimum-cost-to-hire-k-workers.md)
 * [299. Bulls and Cows](google/299.-bulls-and-cows.md)
 * [803. Bricks Falling When Hit](google/803.-bricks-falling-when-hit.md)
+* [489. Robot Room Cleaner](google/489.-robot-room-cleaner.md)
 
