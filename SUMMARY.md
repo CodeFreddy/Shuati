@@ -138,4 +138,8 @@
 * [399. Evaluate Division](google/399.-evaluate-division.md)
 * [844. Backspace String Compare](google/844.-backspace-string-compare.md)
 * [686. Repeated String Match](google/686.-repeated-string-match.md)
+* [766. Toeplitz Matrix](google/766.-toeplitz-matrix.md)
+* [857. Minimum Cost to Hire K Workers](google/857.-minimum-cost-to-hire-k-workers.md)
+* [299. Bulls and Cows](google/299.-bulls-and-cows.md)
+* [803. Bricks Falling When Hit](google/803.-bricks-falling-when-hit.md)
 
