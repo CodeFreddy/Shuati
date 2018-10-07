@@ -145,4 +145,9 @@
 * [489. Robot Room Cleaner](google/489.-robot-room-cleaner.md)
 * [528. Random Pick with Weight](google/528.-random-pick-with-weight.md)
 * [403. Frog Jump](google/403.-frog-jump.md)
+* [78. Subsets](google/78.-subsets.md)
+* [90. Subsets II](google/90.-subsets-ii.md)
+* [46. Permutations](google/46.-permutations.md)
+* [47. Permutations II](google/47.-permutations-ii.md)
+* [39. Combination Sum](google/39.-combination-sum.md)
 
