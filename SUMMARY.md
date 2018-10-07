@@ -143,4 +143,5 @@
 * [299. Bulls and Cows](google/299.-bulls-and-cows.md)
 * [803. Bricks Falling When Hit](google/803.-bricks-falling-when-hit.md)
 * [489. Robot Room Cleaner](google/489.-robot-room-cleaner.md)
+* [528. Random Pick with Weight](google/528.-random-pick-with-weight.md)
 
