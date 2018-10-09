@@ -152,3 +152,12 @@
 * [39. Combination Sum](google/39.-combination-sum.md)
 * [40. Combination Sum II](google/40.-combination-sum-ii.md)
 
+## LinkedIn
+
+* [276. Paint Fence](linkedin/276.-paint-fence.md)
+* [170. Two Sum III - Data structure design](linkedin/170.-two-sum-iii-data-structure-design.md)
+* [339. Nested List Weight Sum](linkedin/339.-nested-list-weight-sum.md)
+* [243. Shortest Word Distance](linkedin/243.-shortest-word-distance.md)
+* [244. Shortest Word Distance II](linkedin/244.-shortest-word-distance-ii.md)
+* [245. Shortest Word Distance III](linkedin/245.-shortest-word-distance-iii.md)
+
