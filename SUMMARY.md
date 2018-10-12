@@ -166,4 +166,5 @@
 * [156. Binary Tree Upside Down](linkedin/156.-binary-tree-upside-down.md)
 * [272. Closest Binary Search Tree Value II](linkedin/272.-closest-binary-search-tree-value-ii.md)
 * [380. Insert Delete GetRandom O\(1\)](linkedin/380.-insert-delete-getrandom-o-1.md)
+* [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](linkedin/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
 
