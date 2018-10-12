@@ -162,4 +162,5 @@
 * [243. Shortest Word Distance](linkedin/243.-shortest-word-distance.md)
 * [244. Shortest Word Distance II](linkedin/244.-shortest-word-distance-ii.md)
 * [245. Shortest Word Distance III](linkedin/245.-shortest-word-distance-iii.md)
+* [149. Max Points on a Line](linkedin/149.-max-points-on-a-line.md)
 
