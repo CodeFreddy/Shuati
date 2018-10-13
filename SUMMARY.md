@@ -169,4 +169,7 @@
 * [381. Insert Delete GetRandom O\(1\) - Duplicates allowed](linkedin/381.-insert-delete-getrandom-o-1-duplicates-allowed.md)
 * [65. Valid Number](linkedin/65.-valid-number.md)
 * [68. Text Justification](linkedin/68.-text-justification.md)
+* [254. Factor Combinations](linkedin/254.-factor-combinations.md)
+* [341. Flatten Nested List Iterator](linkedin/341.-flatten-nested-list-iterator.md)
+* [50. pow\(x, n\)](linkedin/50.-pow-x-n.md)
 
