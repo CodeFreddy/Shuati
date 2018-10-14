@@ -172,4 +172,11 @@
 * [254. Factor Combinations](linkedin/254.-factor-combinations.md)
 * [341. Flatten Nested List Iterator](linkedin/341.-flatten-nested-list-iterator.md)
 * [50. pow\(x, n\)](linkedin/50.-pow-x-n.md)
+* [297. Serialize and Deserialize Binary Tree](linkedin/297.-serialize-and-deserialize-binary-tree.md)
+* [605. Can place flowers](linkedin/605.-can-place-flowers.md)
+* [205. Isomorphic Strings](linkedin/205.-isomorphic-strings.md)
+* [366. Find Leaves of Binary Tree](linkedin/366.-find-leaves-of-binary-tree.md)
+* [187. Repeated DNA Sequences](linkedin/187.-repeated-dna-sequences.md)
+* [611. Valid Triangle Number](linkedin/611.-valid-triangle-number.md)
+* [56. Merge Intervals](linkedin/56.-merge-intervals.md)
 
