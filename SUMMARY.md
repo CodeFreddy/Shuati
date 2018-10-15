@@ -179,4 +179,11 @@
 * [187. Repeated DNA Sequences](linkedin/187.-repeated-dna-sequences.md)
 * [611. Valid Triangle Number](linkedin/611.-valid-triangle-number.md)
 * [56. Merge Intervals](linkedin/56.-merge-intervals.md)
+* [150. Evaluate Reverse Polish Notation](linkedin/150.-evaluate-reverse-polish-notation.md)
+* [516. Longest Palindromic Subsequence](linkedin/516.-longest-palindromic-subsequence.md)
+* [261. Graph Valid Tree](linkedin/261.-graph-valid-tree.md)
+* [12. Integer to Roman](linkedin/12.-integer-to-roman.md)
+* [698. Partition to K Equal Sum Set](linkedin/698.-partition-to-k-equal-sum-set.md)
+* [384. Shuffle An Array](linkedin/384.-shuffle-an-array.md)
+* [69. Sqrt\(x\)](linkedin/69.-sqrt-x.md)
 
