@@ -186,4 +186,6 @@
 * [698. Partition to K Equal Sum Set](linkedin/698.-partition-to-k-equal-sum-set.md)
 * [384. Shuffle An Array](linkedin/384.-shuffle-an-array.md)
 * [69. Sqrt\(x\)](linkedin/69.-sqrt-x.md)
+* [311. Sparse Matrix Multiplication](linkedin/311.-sparse-matrix-multiplication.md)
+* [127. Word Ladder](linkedin/127.-word-ladder.md)
 
