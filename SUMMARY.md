@@ -188,4 +188,7 @@
 * [69. Sqrt\(x\)](linkedin/69.-sqrt-x.md)
 * [311. Sparse Matrix Multiplication](linkedin/311.-sparse-matrix-multiplication.md)
 * [127. Word Ladder](linkedin/127.-word-ladder.md)
+* [57. Insert Interval](linkedin/57.-insert-interval.md)
+* [146. LRU Cache](linkedin/146.-lru-cache.md)
+* [464. Can I Win](linkedin/464.-can-i-win.md)
 
