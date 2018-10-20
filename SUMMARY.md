@@ -192,3 +192,9 @@
 * [146. LRU Cache](linkedin/146.-lru-cache.md)
 * [464. Can I Win](linkedin/464.-can-i-win.md)
 
+## Twitter OA
+
+* [Missing Words](twitter-oa/missing-words.md)
+* [Huffman Decoding](twitter-oa/huffman-decoding.md)
+* [Rover Control](twitter-oa/rover-control.md)
+
