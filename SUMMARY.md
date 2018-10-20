@@ -191,6 +191,7 @@
 * [57. Insert Interval](linkedin/57.-insert-interval.md)
 * [146. LRU Cache](linkedin/146.-lru-cache.md)
 * [464. Can I Win](linkedin/464.-can-i-win.md)
+* [277. Find the Celebrity](linkedin/277.-find-the-celebrity.md)
 
 ## Twitter OA
 
