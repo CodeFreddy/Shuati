@@ -192,10 +192,18 @@
 * [146. LRU Cache](linkedin/146.-lru-cache.md)
 * [464. Can I Win](linkedin/464.-can-i-win.md)
 * [277. Find the Celebrity](linkedin/277.-find-the-celebrity.md)
+* [285. Inorder Successor in BST](linkedin/285.-inorder-successor-in-bst.md)
+* [76. Minimum Window Substring](linkedin/76.-minimum-window-substring.md)
+* [209. Minimum Size Subarray Sum](linkedin/209.-minimum-size-subarray-sum.md)
+* [239. Sliding Window Maximum](linkedin/239.-sliding-window-maximum.md)
+* [567. Permutation in String](linkedin/567.-permutation-in-string.md)
+* [438. Find All Anagrams in a String](linkedin/438.-find-all-anagrams-in-a-string.md)
+* [692. Top K Frequent Words](linkedin/692.-top-k-frequent-words.md)
 
 ## Twitter OA
 
 * [Missing Words](twitter-oa/missing-words.md)
 * [Huffman Decoding](twitter-oa/huffman-decoding.md)
 * [Rover Control](twitter-oa/rover-control.md)
+* [325. Maximum Size Subarray Sum Equals k](twitter-oa/325.-maximum-size-subarray-sum-equals-k.md)
 
