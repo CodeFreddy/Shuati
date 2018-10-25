@@ -199,6 +199,11 @@
 * [567. Permutation in String](linkedin/567.-permutation-in-string.md)
 * [438. Find All Anagrams in a String](linkedin/438.-find-all-anagrams-in-a-string.md)
 * [692. Top K Frequent Words](linkedin/692.-top-k-frequent-words.md)
+* [713. Subarray Product Less Than K](linkedin/713.-subarray-product-less-than-k.md)
+* [560. Subarray Sum Equals K](linkedin/560.-subarray-sum-equals-k.md)
+* [523. Continuous Subarray Sum](linkedin/523.-continuous-subarray-sum.md)
+* [204. Count Primes](linkedin/204.-count-primes.md)
+* [319. Bulb Switcher](linkedin/319.-bulb-switcher.md)
 
 ## Twitter OA
 
