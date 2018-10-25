@@ -204,6 +204,7 @@
 * [523. Continuous Subarray Sum](linkedin/523.-continuous-subarray-sum.md)
 * [204. Count Primes](linkedin/204.-count-primes.md)
 * [319. Bulb Switcher](linkedin/319.-bulb-switcher.md)
+* [69. Sqrt\(x\)](linkedin/69.-sqrt-x-1.md)
 
 ## Twitter OA
 
