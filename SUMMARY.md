@@ -210,6 +210,11 @@
 * [671. Second Minimum Node In a Binary Tree](linkedin/671.-second-minimum-node-in-a-binary-tree.md)
 * [8. String to Integer \(atoi\)](linkedin/8.-string-to-integer-atoi.md)
 * [373. Find K Pairs with Smallest Sums](linkedin/373.-find-k-pairs-with-smallest-sums.md)
+* [633. Sum of Square Numbers](linkedin/633.-sum-of-square-numbers.md)
+* [238. Product of Array Except Self](linkedin/238.-product-of-array-except-self.md)
+* [367. Valid Perfect Square](linkedin/367.-valid-perfect-square.md)
+* [515. Find Largest Value in Each Tree Row](linkedin/515.-find-largest-value-in-each-tree-row.md)
+* [432. All O\`one Data Structure](linkedin/432.-all-o-one-data-structure.md)
 
 ## Twitter OA
 
