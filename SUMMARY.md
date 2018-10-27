@@ -205,6 +205,11 @@
 * [204. Count Primes](linkedin/204.-count-primes.md)
 * [319. Bulb Switcher](linkedin/319.-bulb-switcher.md)
 * [69. Sqrt\(x\)](linkedin/69.-sqrt-x-1.md)
+* [744. Find Smallest Letter Greater Than Target](linkedin/744.-find-smallest-letter-greater-than-target.md)
+* [151. Reverse Words in a String](linkedin/151.-reverse-words-in-a-string.md)
+* [671. Second Minimum Node In a Binary Tree](linkedin/671.-second-minimum-node-in-a-binary-tree.md)
+* [8. String to Integer \(atoi\)](linkedin/8.-string-to-integer-atoi.md)
+* [373. Find K Pairs with Smallest Sums](linkedin/373.-find-k-pairs-with-smallest-sums.md)
 
 ## Twitter OA
 
