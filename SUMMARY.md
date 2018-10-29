@@ -215,6 +215,11 @@
 * [367. Valid Perfect Square](linkedin/367.-valid-perfect-square.md)
 * [515. Find Largest Value in Each Tree Row](linkedin/515.-find-largest-value-in-each-tree-row.md)
 * [432. All O\`one Data Structure](linkedin/432.-all-o-one-data-structure.md)
+* [300. Longest Increasing Subsequence](linkedin/300.-longest-increasing-subsequence.md)
+* [215. Kth Largest Element in an Array](linkedin/215.-kth-largest-element-in-an-array.md)
+* [931. Minimum Falling Path Sum](linkedin/931.-minimum-falling-path-sum.md)
+* [270. Closest Binary Search Tree Value](linkedin/270.-closest-binary-search-tree-value.md)
+* [252. Meeting Rooms](linkedin/252.-meeting-rooms.md)
 
 ## Twitter OA
 
