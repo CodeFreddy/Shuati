@@ -220,6 +220,8 @@
 * [931. Minimum Falling Path Sum](linkedin/931.-minimum-falling-path-sum.md)
 * [270. Closest Binary Search Tree Value](linkedin/270.-closest-binary-search-tree-value.md)
 * [252. Meeting Rooms](linkedin/252.-meeting-rooms.md)
+* [450. Delete Node in a BST](linkedin/450.-delete-node-in-a-bst.md)
+* [323. Number of Connected Components in an Undirected Graph](linkedin/323.-number-of-connected-components-in-an-undirected-graph.md)
 
 ## Twitter OA
 
