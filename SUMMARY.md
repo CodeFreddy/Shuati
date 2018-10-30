@@ -222,6 +222,8 @@
 * [252. Meeting Rooms](linkedin/252.-meeting-rooms.md)
 * [450. Delete Node in a BST](linkedin/450.-delete-node-in-a-bst.md)
 * [323. Number of Connected Components in an Undirected Graph](linkedin/323.-number-of-connected-components-in-an-undirected-graph.md)
+* [449. Serialize and Deserialize BST](linkedin/449.-serialize-and-deserialize-bst.md)
+* [796. Rotate String](linkedin/796.-rotate-string.md)
 
 ## Twitter OA
 
