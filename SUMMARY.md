@@ -224,6 +224,15 @@
 * [323. Number of Connected Components in an Undirected Graph](linkedin/323.-number-of-connected-components-in-an-undirected-graph.md)
 * [449. Serialize and Deserialize BST](linkedin/449.-serialize-and-deserialize-bst.md)
 * [796. Rotate String](linkedin/796.-rotate-string.md)
+* [706. Design HashMap](linkedin/706.-design-hashmap.md)
+* [695. Max Area of Island](linkedin/695.-max-area-of-island.md)
+* [200. Number of Islands](linkedin/200.-number-of-islands.md)
+* [344. Reverse String](linkedin/344.-reverse-string.md)
+* [412. Fizz Buzz](linkedin/412.-fizz-buzz.md)
+* [259. 3Sum Smaller](linkedin/259.-3sum-smaller.md)
+* [15. 3Sum](linkedin/15.-3sum.md)
+* [16. 3Sum Closest](linkedin/16.-3sum-closest.md)
+* [121. Best Time to Buy and Sell Stock](linkedin/121.-best-time-to-buy-and-sell-stock.md)
 
 ## Twitter OA
 
