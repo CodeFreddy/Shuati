@@ -233,6 +233,9 @@
 * [15. 3Sum](linkedin/15.-3sum.md)
 * [16. 3Sum Closest](linkedin/16.-3sum-closest.md)
 * [121. Best Time to Buy and Sell Stock](linkedin/121.-best-time-to-buy-and-sell-stock.md)
+* [122. Best Time to Buy and Sell Stock II](linkedin/122.-best-time-to-buy-and-sell-stock-ii.md)
+* [123. Best Time to Buy and Sell Stock III](linkedin/123.-best-time-to-buy-and-sell-stock-iii.md)
+* [283. Move Zeroes](linkedin/283.-move-zeroes.md)
 
 ## Twitter OA
 
