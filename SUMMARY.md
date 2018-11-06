@@ -245,3 +245,11 @@
 * [Rover Control](twitter-oa/rover-control.md)
 * [325. Maximum Size Subarray Sum Equals k](twitter-oa/325.-maximum-size-subarray-sum-equals-k.md)
 
+## 排序算法总结
+
+* [Bubble Sort](pai-xu-suan-fa-zong-jie/bubble-sort.md)
+* [Quick Sort](pai-xu-suan-fa-zong-jie/quick-sort.md)
+* [Selection Sort](pai-xu-suan-fa-zong-jie/selection-sort.md)
+* [Insertion Sort](pai-xu-suan-fa-zong-jie/insertion-sort.md)
+* [Heap Sort](pai-xu-suan-fa-zong-jie/heap-sort.md)
+
