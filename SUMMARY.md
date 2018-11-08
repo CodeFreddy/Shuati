@@ -252,4 +252,10 @@
 * [Selection Sort](pai-xu-suan-fa-zong-jie/selection-sort.md)
 * [Insertion Sort](pai-xu-suan-fa-zong-jie/insertion-sort.md)
 * [Heap Sort](pai-xu-suan-fa-zong-jie/heap-sort.md)
+* [349. Intersection of Two Arrays](pai-xu-suan-fa-zong-jie/349.-intersection-of-two-arrays.md)
+* [253. Meeting Rooms II](pai-xu-suan-fa-zong-jie/253.-meeting-rooms-ii.md)
+* [242. Valid Anagram](pai-xu-suan-fa-zong-jie/242.-valid-anagram.md)
+* [49. Group Anagrams](pai-xu-suan-fa-zong-jie/49.-group-anagrams.md)
+* [179. Largest Number](pai-xu-suan-fa-zong-jie/179.-largest-number.md)
+* [75. Sort Colors](pai-xu-suan-fa-zong-jie/75.-sort-colors.md)
 
