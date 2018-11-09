@@ -258,4 +258,7 @@
 * [49. Group Anagrams](pai-xu-suan-fa-zong-jie/49.-group-anagrams.md)
 * [179. Largest Number](pai-xu-suan-fa-zong-jie/179.-largest-number.md)
 * [75. Sort Colors](pai-xu-suan-fa-zong-jie/75.-sort-colors.md)
+* [Counting Sort](pai-xu-suan-fa-zong-jie/counting-sort.md)
+* [148. Sort List](pai-xu-suan-fa-zong-jie/148.-sort-list.md)
+* [280. Wiggle Sort](pai-xu-suan-fa-zong-jie/280.-wiggle-sort.md)
 
