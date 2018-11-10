@@ -237,6 +237,7 @@
 * [123. Best Time to Buy and Sell Stock III](linkedin/123.-best-time-to-buy-and-sell-stock-iii.md)
 * [283. Move Zeroes](linkedin/283.-move-zeroes.md)
 * [4. Median of Two Sorted Arrays](linkedin/4.-median-of-two-sorted-arrays.md)
+* [347. Top K Frequent Elements](linkedin/347.-top-k-frequent-elements.md)
 
 ## Twitter OA
 
