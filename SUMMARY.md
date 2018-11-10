@@ -238,6 +238,10 @@
 * [283. Move Zeroes](linkedin/283.-move-zeroes.md)
 * [4. Median of Two Sorted Arrays](linkedin/4.-median-of-two-sorted-arrays.md)
 * [347. Top K Frequent Elements](linkedin/347.-top-k-frequent-elements.md)
+* [255. Verify Preorder Sequence in Binary Search Tree](linkedin/255.-verify-preorder-sequence-in-binary-search-tree.md)
+* [382. Linked List Random Node](linkedin/382.-linked-list-random-node.md)
+* [352. Data Stream as Disjoint Intervals](linkedin/352.-data-stream-as-disjoint-intervals.md)
+* [273. Integer to English Words](linkedin/273.-integer-to-english-words.md)
 
 ## Twitter OA
 
