@@ -261,4 +261,8 @@
 * [Counting Sort](pai-xu-suan-fa-zong-jie/counting-sort.md)
 * [148. Sort List](pai-xu-suan-fa-zong-jie/148.-sort-list.md)
 * [280. Wiggle Sort](pai-xu-suan-fa-zong-jie/280.-wiggle-sort.md)
+* [215. Kth Largest Element in an Array](pai-xu-suan-fa-zong-jie/215.-kth-largest-element-in-an-array.md)
+* [147. Insertion Sort List](pai-xu-suan-fa-zong-jie/147.-insertion-sort-list.md)
+* [296. Best Meeting Point](pai-xu-suan-fa-zong-jie/296.-best-meeting-point.md)
+* [164. Maximum Gap](pai-xu-suan-fa-zong-jie/164.-maximum-gap.md)
 
