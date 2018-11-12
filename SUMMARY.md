@@ -242,6 +242,12 @@
 * [382. Linked List Random Node](linkedin/382.-linked-list-random-node.md)
 * [352. Data Stream as Disjoint Intervals](linkedin/352.-data-stream-as-disjoint-intervals.md)
 * [273. Integer to English Words](linkedin/273.-integer-to-english-words.md)
+* [21. Merge Two Sorted Lists](linkedin/21.-merge-two-sorted-lists.md)
+* [23. Merge k Sorted Lists](linkedin/23.-merge-k-sorted-lists.md)
+* [74. Search a 2D Matrix](linkedin/74.-search-a-2d-matrix.md)
+* [79. Word Search](linkedin/79.-word-search.md)
+* [377. Combination Sum IV](linkedin/377.-combination-sum-iv.md)
+* [31. Next Permutation](linkedin/31.-next-permutation.md)
 
 ## Twitter OA
 
