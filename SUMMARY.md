@@ -248,6 +248,10 @@
 * [79. Word Search](linkedin/79.-word-search.md)
 * [377. Combination Sum IV](linkedin/377.-combination-sum-iv.md)
 * [31. Next Permutation](linkedin/31.-next-permutation.md)
+* [133. Clone Graph](linkedin/133.-clone-graph.md)
+* [60. Permutation Sequence](linkedin/60.-permutation-sequence.md)
+* [138. Copy List with Random Pointer](linkedin/138.-copy-list-with-random-pointer.md)
+* [203. Remove Linked List Elements](linkedin/203.-remove-linked-list-elements.md)
 
 ## Twitter OA
 
