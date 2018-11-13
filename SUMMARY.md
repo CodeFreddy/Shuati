@@ -281,3 +281,13 @@
 * [296. Best Meeting Point](pai-xu-suan-fa-zong-jie/296.-best-meeting-point.md)
 * [164. Maximum Gap](pai-xu-suan-fa-zong-jie/164.-maximum-gap.md)
 
+## Bit Manipulation
+
+* [389. Find the Difference](bit-manipulation/389.-find-the-difference.md)
+* [136. Single Number](bit-manipulation/136.-single-number.md)
+* [137. Single Number II](bit-manipulation/137.-single-number-ii.md)
+* [260. Single Number III](bit-manipulation/260.-single-number-iii.md)
+* [338. Counting Bits](bit-manipulation/338.-counting-bits.md)
+* [191. Number of 1 Bits](bit-manipulation/191.-number-of-1-bits.md)
+* [169. Majority Element](bit-manipulation/169.-majority-element.md)
+
