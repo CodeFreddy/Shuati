@@ -252,6 +252,7 @@
 * [60. Permutation Sequence](linkedin/60.-permutation-sequence.md)
 * [138. Copy List with Random Pointer](linkedin/138.-copy-list-with-random-pointer.md)
 * [203. Remove Linked List Elements](linkedin/203.-remove-linked-list-elements.md)
+* [149. Max Points on a Line](linkedin/149.-max-points-on-a-line-1.md)
 
 ## Twitter OA
 
