@@ -130,6 +130,7 @@
 * [716. Max Stack](stack-and-and-queue/716.-max-stack.md)
 * [84. Largest Rectangle in Histogram](stack-and-and-queue/84.-largest-rectangle-in-histogram.md)
 * [85. Maximal Rectangle](stack-and-and-queue/85.-maximal-rectangle.md)
+* [71. Simplify Path](stack-and-and-queue/71.-simplify-path.md)
 
 ## Google
 
@@ -255,6 +256,8 @@
 * [149. Max Points on a Line](linkedin/149.-max-points-on-a-line-1.md)
 * [34. Find First and Last Position of Element in Sorted Array](linkedin/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [282. Expression Add Operators](linkedin/282.-expression-add-operators.md)
+* [128. Longest Consecutive Sequence](linkedin/128.-longest-consecutive-sequence.md)
+* [Untitled](linkedin/untitled.md)
 
 ## Twitter OA
 
@@ -293,4 +296,6 @@
 * [338. Counting Bits](bit-manipulation/338.-counting-bits.md)
 * [191. Number of 1 Bits](bit-manipulation/191.-number-of-1-bits.md)
 * [169. Majority Element](bit-manipulation/169.-majority-element.md)
+* [371. Sum of Two Integers](bit-manipulation/371.-sum-of-two-integers.md)
+* [190. Reverse Bits](bit-manipulation/190.-reverse-bits.md)
 
