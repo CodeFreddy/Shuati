@@ -254,6 +254,7 @@
 * [203. Remove Linked List Elements](linkedin/203.-remove-linked-list-elements.md)
 * [149. Max Points on a Line](linkedin/149.-max-points-on-a-line-1.md)
 * [34. Find First and Last Position of Element in Sorted Array](linkedin/34.-find-first-and-last-position-of-element-in-sorted-array.md)
+* [282. Expression Add Operators](linkedin/282.-expression-add-operators.md)
 
 ## Twitter OA
 
