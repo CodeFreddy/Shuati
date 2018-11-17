@@ -17,6 +17,8 @@
   * [Permutations](dfs/permutations.md)
   * [Permutations II](dfs/permutations-ii.md)
   * [Palindrome Partitioning](dfs/palindrome-partitioning.md)
+  * [130. Surrounded Regions](dfs/130.-surrounded-regions.md)
+  * [286. Walls and Gates](dfs/286.-walls-and-gates.md)
 * [Array](array/README.md)
   * [Remove Element](array/remove-element.md)
   * [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array.md)
@@ -135,6 +137,9 @@
 * [394. Decode String](stack-and-and-queue/394.-decode-string.md)
 * [224. Basic Calculator](stack-and-and-queue/224.-basic-calculator.md)
 * [227. Basic Calculator II](stack-and-and-queue/227.-basic-calculator-ii.md)
+* [385. Mini Parser](stack-and-and-queue/385.-mini-parser.md)
+* [313. Super Ugly Number](stack-and-and-queue/313.-super-ugly-number.md)
+* [496. Next Greater Element I](stack-and-and-queue/496.-next-greater-element-i.md)
 
 ## Google
 
