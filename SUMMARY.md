@@ -131,6 +131,10 @@
 * [84. Largest Rectangle in Histogram](stack-and-and-queue/84.-largest-rectangle-in-histogram.md)
 * [85. Maximal Rectangle](stack-and-and-queue/85.-maximal-rectangle.md)
 * [71. Simplify Path](stack-and-and-queue/71.-simplify-path.md)
+* [388. Longest Absolute File Path](stack-and-and-queue/388.-longest-absolute-file-path.md)
+* [394. Decode String](stack-and-and-queue/394.-decode-string.md)
+* [224. Basic Calculator](stack-and-and-queue/224.-basic-calculator.md)
+* [227. Basic Calculator II](stack-and-and-queue/227.-basic-calculator-ii.md)
 
 ## Google
 
@@ -257,7 +261,7 @@
 * [34. Find First and Last Position of Element in Sorted Array](linkedin/34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [282. Expression Add Operators](linkedin/282.-expression-add-operators.md)
 * [128. Longest Consecutive Sequence](linkedin/128.-longest-consecutive-sequence.md)
-* [Untitled](linkedin/untitled.md)
+* [460. LFU Cache](linkedin/untitled.md)
 
 ## Twitter OA
 
