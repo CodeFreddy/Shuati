@@ -61,18 +61,5 @@ class Solution {
 }
 ```
 
-时间复杂度 O\(logN\) 空间复杂度：O\(logN\) N is the number of the nodes in the tree.
 
-```java
-class Solution {
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root.val < p.val && root.val < q.val)
-            return lowestCommonAncestor(root.right, p, q);
-        else if(root.val > p.val && root.val > q.val)
-            return lowestCommonAncestor(root.left, p, q);
-        else
-            return root;
-    }
-}
-```
 
