@@ -40,7 +40,7 @@ Explanation: The LCA of nodes 2 and 4 is 2, since a node can be a descendant of 
 * All of the nodes' values will be unique.
 * p and q are different and both values will exist in the BST.
 
-递归解法:
+递归解法: 时间复杂度：O\(logn\) 空间复杂度: O\(logn\)
 
 ```java
 /**
