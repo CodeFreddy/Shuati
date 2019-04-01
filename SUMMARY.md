@@ -20,6 +20,8 @@
   * [130. Surrounded Regions](dfs/130.-surrounded-regions.md)
   * [286. Walls and Gates](dfs/286.-walls-and-gates.md)
 * [Array](array/README.md)
+  * [19. Remove Nth Node From End of List](array/19.-remove-nth-node-from-end-of-list.md)
+  * [18. 4 Sum](array/18.-4-sum.md)
   * [Container With Most Water](array/container-with-most-water.md)
   * [Remove Element](array/remove-element.md)
   * [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array.md)
