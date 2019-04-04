@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [LinkedList](linkedlist/README.md)
+  * [24. Swap Nodes in Pairs](linkedlist/24.-swap-nodes-in-pairs.md)
 * [BFS](bfs/README.md)
   * [Word Ladder](bfs/word-ladder.md)
   * [Binary Tree Zigzag Level Order Traversal](bfs/binary-tree-zigzag-level-order-traversal.md)
