@@ -99,6 +99,7 @@
 
 ## Dynamic Programming
 
+* [120. Triangle](dynamic-programming/120.-triangle.md)
 * [Triangle](dynamic-programming/triangle.md)
 * [Minimum Path Sum](dynamic-programming/minimum-path-sum.md)
 * [Climbing Stairs](dynamic-programming/climbing-stairs.md)
@@ -111,6 +112,7 @@
 * [375. Guess Number Higher or Lower II](dynamic-programming/375.-guess-number-higher-or-lower-ii.md)
 * [97. Interleaving String](dynamic-programming/97.-interleaving-string.md)
 * [221. Maximal Square](dynamic-programming/221.-maximal-square.md)
+* [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
 
 ## DFS
 
@@ -270,6 +272,7 @@
 * [282. Expression Add Operators](linkedin/282.-expression-add-operators.md)
 * [128. Longest Consecutive Sequence](linkedin/128.-longest-consecutive-sequence.md)
 * [460. LFU Cache](linkedin/untitled.md)
+* [Untitled](linkedin/untitled-1.md)
 
 ## Twitter OA
 
