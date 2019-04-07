@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [LinkedList](linkedlist.md)
 * [BFS](bfs/README.md)
   * [Word Ladder](bfs/word-ladder.md)
   * [Binary Tree Zigzag Level Order Traversal](bfs/binary-tree-zigzag-level-order-traversal.md)
@@ -40,6 +41,7 @@
   * [Intersection of Two Arrays II](binary-search/intersection-of-two-arrays-ii.md)
   * [Count of Smaller Numbers After Self](binary-search/count-of-smaller-numbers-after-self.md)
 * [Binary Tree](binary-tree/README.md)
+  * [114. Flatten Binary Tree to Linked List](binary-tree/114.-flatten-binary-tree-to-linked-list.md)
   * [Binary Tree Inorder Traversal](binary-tree/binary-tree-inorder-traversal.md)
   * [Binary Tree Preorder Traversal](binary-tree/binary-tree-preorder-traversal.md)
   * [Binary Tree Postorder Traversal](binary-tree/binary-tree-postorder-traversal.md)
