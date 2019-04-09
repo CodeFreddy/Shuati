@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [LinkedList](linkedlist.md)
+* [LinkedList](linkedlist/README.md)
+  * [328. Odd Even Linked List](linkedlist/328.-odd-even-linked-list.md)
+  * [369. Plus One Linked List](linkedlist/369.-plus-one-linked-list.md)
 * [BFS](bfs/README.md)
   * [Word Ladder](bfs/word-ladder.md)
   * [Binary Tree Zigzag Level Order Traversal](bfs/binary-tree-zigzag-level-order-traversal.md)
