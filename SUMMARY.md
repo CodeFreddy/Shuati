@@ -5,6 +5,7 @@
   * [328. Odd Even Linked List](linkedlist/328.-odd-even-linked-list.md)
   * [369. Plus One Linked List](linkedlist/369.-plus-one-linked-list.md)
   * [160. Intersection of Two Linked Lists](linkedlist/160.-intersection-of-two-linked-lists.md)
+  * [143. Reorder List](linkedlist/143.-reorder-list.md)
 * [BFS](bfs/README.md)
   * [Word Ladder](bfs/word-ladder.md)
   * [Binary Tree Zigzag Level Order Traversal](bfs/binary-tree-zigzag-level-order-traversal.md)
