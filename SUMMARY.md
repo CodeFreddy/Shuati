@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [String](string/README.md)
+  * [290. Word Pattern](string/290.-word-pattern.md)
   * [387. First Unique Character in a String](string/387.-first-unique-character-in-a-string.md)
   * [383. Ransom Note](string/383.-ransom-note.md)
   * [186. Reverse Words in a String II](string/186.-reverse-words-in-a-string-ii.md)
