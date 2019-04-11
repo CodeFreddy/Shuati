@@ -1,6 +1,13 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [String](string/README.md)
+  * [387. First Unique Character in a String](string/387.-first-unique-character-in-a-string.md)
+  * [383. Ransom Note](string/383.-ransom-note.md)
+  * [186. Reverse Words in a String II](string/186.-reverse-words-in-a-string-ii.md)
+  * [345. Reverse Vowels of a String](string/345.-reverse-vowels-of-a-string.md)
+  * [293. Flip Game](string/293.-flip-game.md)
+  * [294. Flip Game II](string/294.-flip-game-ii.md)
 * [LinkedList](linkedlist/README.md)
   * [328. Odd Even Linked List](linkedlist/328.-odd-even-linked-list.md)
   * [369. Plus One Linked List](linkedlist/369.-plus-one-linked-list.md)
