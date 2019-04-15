@@ -2,6 +2,8 @@
 
 * [Initial page](README.md)
 * [String](string/README.md)
+  * [246. Strobogrammatic Number](string/246.-strobogrammatic-number.md)
+  * [249. Group Shifted Strings](string/249.-group-shifted-strings.md)
   * [290. Word Pattern](string/290.-word-pattern.md)
   * [387. First Unique Character in a String](string/387.-first-unique-character-in-a-string.md)
   * [383. Ransom Note](string/383.-ransom-note.md)
