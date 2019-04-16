@@ -2,6 +2,11 @@
 
 * [Initial page](README.md)
 * [String](string/README.md)
+  * [266. Palindrome Permutation](string/266.-palindrome-permutation.md)
+  * [247. Strobogrammatic Number II](string/247.-strobogrammatic-number-ii.md)
+  * [358. Rearrange String k Distance Apart](string/358.-rearrange-string-k-distance-apart.md)
+  * [271. Encode and Decode Strings](string/271.-encode-and-decode-strings.md)
+  * [161. One Edit Distance](string/161.-one-edit-distance.md)
   * [246. Strobogrammatic Number](string/246.-strobogrammatic-number.md)
   * [249. Group Shifted Strings](string/249.-group-shifted-strings.md)
   * [290. Word Pattern](string/290.-word-pattern.md)
