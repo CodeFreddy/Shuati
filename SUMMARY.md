@@ -2,6 +2,10 @@
 
 * [Initial page](README.md)
 * [String](string/README.md)
+  * [217. Contains Duplicate](string/217.-contains-duplicate.md)
+  * [267. Palindrome Permutation II](string/267.-palindrome-permutation-ii.md)
+  * [241. Different Ways to Add Parentheses](string/241.-different-ways-to-add-parentheses.md)
+  * [392. Is Subsequence](string/392.-is-subsequence.md)
   * [266. Palindrome Permutation](string/266.-palindrome-permutation.md)
   * [247. Strobogrammatic Number II](string/247.-strobogrammatic-number-ii.md)
   * [358. Rearrange String k Distance Apart](string/358.-rearrange-string-k-distance-apart.md)
@@ -121,6 +125,7 @@
 
 ## Dynamic Programming
 
+* [264. Ugly Number II](dynamic-programming/264.-ugly-number-ii.md)
 * [120. Triangle](dynamic-programming/120.-triangle.md)
 * [Triangle](dynamic-programming/triangle.md)
 * [Minimum Path Sum](dynamic-programming/minimum-path-sum.md)
