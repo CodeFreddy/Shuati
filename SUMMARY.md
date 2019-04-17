@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [BackTracking](backtracking/README.md)
+  * [216. Combination Sum III](backtracking/216.-combination-sum-iii.md)
 * [String](string/README.md)
   * [217. Contains Duplicate](string/217.-contains-duplicate.md)
   * [267. Palindrome Permutation II](string/267.-palindrome-permutation-ii.md)
@@ -45,6 +47,9 @@
   * [130. Surrounded Regions](dfs/130.-surrounded-regions.md)
   * [286. Walls and Gates](dfs/286.-walls-and-gates.md)
 * [Array](array/README.md)
+  * [376. Wiggle Subsequence](array/376.-wiggle-subsequence.md)
+  * [163. Missing Ranges](array/163.-missing-ranges.md)
+  * [228. Summary Ranges](array/228.-summary-ranges.md)
   * [19. Remove Nth Node From End of List](array/19.-remove-nth-node-from-end-of-list.md)
   * [18. 4 Sum](array/18.-4-sum.md)
   * [Container With Most Water](array/container-with-most-water.md)
