@@ -76,6 +76,7 @@
   * [33. Search in Rotated Sorted Array](binary-search/33.-search-in-rotated-sorted-array.md)
   * [153. Find Minimum in Rotated Sorted Array](binary-search/153.-find-minimum-in-rotated-sorted-array.md)
   * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+  * [350. Intersection of Two Arrays II](binary-search/350.-intersection-of-two-arrays-ii.md)
 * [Binary Tree](binary-tree/README.md)
   * [114. Flatten Binary Tree to Linked List](binary-tree/114.-flatten-binary-tree-to-linked-list.md)
   * [Binary Tree Inorder Traversal](binary-tree/binary-tree-inorder-traversal.md)
